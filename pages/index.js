@@ -20,7 +20,7 @@ export default function Index() {
           name="Bolo de Cenoura"
         ></RecipeCard>
         <RecipeCard
-          link="/receitas/bolos/bolinho-de-chuva"
+          link="/receitas/lanches/bolinho-de-chuva"
           picture="https://vovopalmirinha.com.br/wp-content/uploads/2020/03/vovo-palmirinha-bolinho-de-chuva-702x336.jpg"
           category="Lanches"
           name="Bolinho de Chuva"
